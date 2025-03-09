@@ -16,8 +16,8 @@ IMAP_PORT = 993  # Standard IMAP SSL port
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 
-email_user = "onefile.a.i@gmail.com"
-email_password = "qeet qadi yyur owyr"  # Használj "App Password"-ot, ha kétlépcsős hitelesítés van
+email_user = "xxxxx@gmail.com"
+email_password = "xxxx xxxx xxxx xxxx"  # Használj "App Password"-ot, ha kétlépcsős hitelesítés van
 def reply(receiver_email):
     #receiver_email = "karpat.zoltan@gmail.com"
     #receiver_email = "peter.becskei@gmail.com"
